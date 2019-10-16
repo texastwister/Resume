@@ -1,0 +1,252 @@
+==========================
+Résumé: Scott L. Purcell
+==========================
+
+| 501 W. Metcalfe St.
+| Hutto, TX 78634
+| 512.521.9347 phone
+| scottpurcell78750@gmail.com 
+
+
+
+
+
+Summary of Qualifications
+===========================
+
+    An experienced and versatile RHCE-certified IT professional with extensive experience in a wide range of hardware, software, training, network security and IT-related skills:
+    
+Hardware-related skills and experience
+-----------------------------------------
+
+    Extensive experience with:
+     
+        * Dell PowerEdge Servers (including blade servers and cloud-optimized servers)
+        * Dell PowerConnect Switches
+        * Dell Server components (RAID controllers, remote access cards, etc)
+        * Dell Racks and rack components 
+    
+    Some experience with:
+
+        * Dell/EMC SAN Storage 
+        * Dell PowerVault Storage
+
+
+Software/OS-related skills and experience
+---------------------------------------------
+
+    Extensive experience in 
+
+        * AlienVault USM Appliance
+        * AlienVault USM Anywhere
+        * OpenStack
+        * Ubuntu LTS
+        * Red Hat Enterprise Linux (including Xen/KVM virtualization, clustering, deployment and provisioning)
+        * SuSE Linux Enterprise Server 
+        * Remote administration (using VNC, SSH, FreeNX, and RDP) 
+        * Shell scripting
+        * Configuration of Fibre Channel and iSCSI storage
+        * PXE deployment solutions including Cobbler and Koan
+
+    Some experience with:
+
+        * Hadoop 
+        * Windows Desktop and Server releases from Window 3.11 through Windows 7
+        * Open Solaris
+        * VMware ESX
+        * Citrix XenServer
+        * Various Linux distros of lesser signifance in enterprise usage.
+        * Deployment solutions including Chef, Puppet, and Ansible
+        * Systems Management solutions such as Nagios and Ganglia
+
+IT-related Skills
+------------------------
+
+    Extensive experience in: 
+
+        * Training
+        * Curriculum development 
+        * Technical support
+        * System provisioning and management
+        * Virtualization
+        * Linux system adminstration
+        * Network Security management using AlienVault solutions
+
+    Some experience with: 
+    
+        * Network administration and solution design
+        * Penetration testing
+
+
+Accomplishments
+================================
+
+Cesten Consulting, Proprietor and Contract IT Trainer, Hutto, TX, Mar 2017 to Present
+----------------------------------------------------------------------------------------
+
+* Became AlienVault's most experienced trainer for their AV USM appliance courses while maintaining NPS scores above 80.
+* Developed video versions of all major course offerings from AlienVault related to their USM Appliance platform.
+
+Alienvault, Sr. Technical Instructor, Austin, TX, Feb 2015 to Mar 2017
+---------------------------------------------------------------------------
+
+* Collaborated on the development of Alienvault's 2nd Gen revamp of their flagship course "AlienVault USM for Security Engineers".
+* Collaborated on the development of an introductory level course, "AlienVault Launchpad".
+* Led Webinar sessions demonstrating various capabilities of the USM Appliance.
+* Delivered training globally in-person and online for AlienVault.
+
+Rackspace, Cloud Technologies Instructor, Austin, TX, Apr 2013 to Feb 2015
+----------------------------------------------------------------------------
+
+* Developed a collaborative, cross platform, content-authoring workflow for curriculum development using ReStructured Text, Git, and Jenkins.
+* Collaborated in curriculum development for courses on OpenStack deployment for releases from Folsom to Juno.
+* Delivered courses throughout the US teaching OpenStack deployment.
+
+Dell, Technical Trainer and Curriculum Developer, Round Rock, TX 1997 to 2013
+---------------------------------------------------------------------------------
+
+* Developed and delivered training on using Crowbar for deployment of cloud solutions including OpenStack and Hadoop on Dell Servers.
+* Maintained the lab equipment used in delivering a variety of Linux-related classes.
+* Developed a lab deployment solution using Cobbler, kickstart configuration, and LibVirt virtualization to quickly prepare labs for a variety of classes.
+* Authored a white paper (available on request) on the process we used to build our training environment for the Cloud Solutions deployment courses.
+* Collaborated on the development of the courses and certification exams for the DCEE/DCP Certification program.
+* Developed a Live-CD based Linux training course for distribution to Dell Support Teams.
+* Applied for a patent on some of the techniques used in the Live-CD Linux Training.
+
+
+    
+..
+    Key Competencies
+    =======================
+
+..
+    Communication Skills: I have excellent written and verbal communication skills. For two years I taught classes of up to 30 students on a regular basis.  In my more recent training experiences I've taught smaller groups in more intensive, more highly technical topics. In my prior work history, I spent 12 years in Christian Ministry and spoke before congregations of up to 90 people two or three times weekly.  In a previous role at Dell, I developed revenue-generating courseware for Dell Professional Services.  In my secondary employment, I teach continuing education classes at Austin Community College in course for RHCE preparation and LPI preparation.  
+
+..    
+    Setting/Balancing Priorities: My present position is in a very fast-paced environment with multiple projects under way at all times. Managing multiple projects with differing deadlines is critical.
+
+..
+    Versatility: The culture at Dell values flexibility and a turn-on-a-dime nimbleness in response to new opportunities or marketplace demands.  I’ve become well adjusted to changing expectations or job requirements.  Picking up new skills to get the job done is a challenge I relish.
+    
+
+.. raw:: pdf
+
+    PageBreak 
+    
+..
+
+
+Employment
+================
+
+    04/2017 - present   IT consulting and contract training as sole proprietor of Cesten Consulting, Hutto, TX
+
+    02/2015 - 03/2017   Sr Technical Instructor, AlienVault, Austin, TX
+
+    04/2013 - 02/2015   Cloud Technology Instructor, Rackspace Hosting, Austin, Tx
+
+    06/2001 – 04/2013    Technical Program Designer / Sr. Training Adviser / Curriculum Developer, Dell Inc., Round Rock, TX
+
+    06/2008 - 05/2013     (Part-Time)  Continuing Education Instructor at Austin Community College, Austin, TX
+
+    11/1998 – 06/2001    Training Analyst (New Hire Training, Desktop Tech Support), Dell Inc., Round Rock, TX
+
+    10/1997 – 11/1998    Customer Service Delivery Sr. Technician, Dell Inc., Round Rock, TX
+
+    8/1997 – 10/1997    Support Technician, TADD Technical (Contracted to Dell), Round Rock, TX
+
+    Prior employment history in an unrelated field omitted for brevity and available on request
+
+Certifications
+====================
+
+    12/15/2014  Rackspace Certified Associate for OpenStack
+    
+    11/18/2014  Rackspace Certified Technician for OpenStack
+    
+    2/15/2013   Red Hat Certified Virtualization Administrator (Current through 2/15/2016)
+    
+    2/15/2013   Red Hat Certificate of Expertise: EX318 Red Hat Enterprise Virtualization
+    
+    4/5/2011     Novell Certified Novell Instructor 
+
+    4/5/2011      Novell Certified Linux Professional
+
+    4/5/2011      Novell Certified Linux Administrator
+
+    4/4/2011      Linux Professional Institute LPIC-1 (Current through 4/4/2016)
+
+    2/25/2011     Red Hat Certified Engineer (Current through 2/15/2016)
+
+    2/25/2011     Red Hat Certified Systems Administrator  (Current through 2/15/2016)
+
+    12/14/2007    Red Hat Certificate of Expertise: EX436 Red Hat Enterprise Storage Management 
+
+    12/16/2005    (Renewed on RHEL6) Red Hat Certified Engineer, RHEL 4 (#804005487818109)
+
+    12/21/2004    (Non-expiring) CompTIA Linux +
+
+    6/29/2004    (Non-expiring) CompTIA CTT+
+
+    10/28/2003   (Retired) Dell Certified Networking Professional
+
+    9/16/2003    (Retired) Dell Certified Server Professional
+
+    9/16/2003    (Retired) Dell Certified Storage Networking Professional
+
+    1/10/2003    (Retired) Red Hat Certified Technician, Red Hat Linux 8.0
+
+    8/22/2002    (Retired) Dell Certified Enterprise Engineer, PowerEdge Server Associate
+
+    8/07/2002    (Retired) Dell Certified Enterprise Engineer, Systems Management Associate
+
+    4/02/2002    (Retired) Dell Certified Enterprise Engineer, PowerEdge Server Foundations
+
+    4/02/2002    (Retired) Dell Certified Enterprise Engineer, Systems Management Foundations
+
+        Note:  All Red Hat certification can be verified with my certificate number: # 110-008-877
+
+.. raw:: pdf
+
+    PageBreak 
+    
+..
+
+
+Education
+===================
+
+    1/1986 – 12/1988    Ozark Christian College, Joplin, MO.  Bachelor of Biblical Literature (BBL) granted in May 1989.
+
+    1/1984 – 5/1985    Midwest Christian College, Oklahoma City, OK
+
+    8/1983 – 12/1983    University of Texas, Austin, TX
+
+    8/1979 – 5/1983    Atlanta High School, Atlanta, TX
+
+
+Continuing Education
+===========================
+
+    Training:    RabbitMQ by Pivotal    -- 2 days (1/13 - 1/14/2015), Pivotal
+
+    Training:    Hadoop Administration -- 3 days (3/26 - 3/28/2012), Cloudera
+    
+    Training:    OpenStack Fundamentals -- 5 days (10/24-28/2011), Rackspace Cloud Builders
+
+    Training:    RH 423 Directory Services and Authentication – 4 days (Summer, 2008), Red Hat
+
+    Training:    RH 401 Deployment, Virtualization, and Systems Mgmt – 4 days (Spring, 2008), Red Hat
+
+    Training:    RH 436 Clustering and Storage Mgmt – 4 days (Winter, 2007), Red Hat
+
+    Training:    RH 300 RHCE Rapid Track Course – 4 days (12/2005, 1/2011), Red Hat
+
+    Training:    BPI Yellow Belt (“Business Process Improvement” – Dell’s modified implementation of Six Sigma) – 1 day (12/2005), Dell
+
+    Audited:    Building Dell Multilayer Networks – 5 days (8/2003), Dell 
+
+    Training:    Implementing Dell Enterprise Storage Solutions – 2 days (6/2003), Dell
+
+    Training:    Implementing Data Protection on Dell Storage – 3 days (6/2003), Dell 
+    
