@@ -320,7 +320,8 @@
       parent: heading
       fontName: stdFont
       fontSize: 125%
-
+      spaceBefore: 6
+      
     heading3:
       parent: heading
       fontName: stdBoldItalic

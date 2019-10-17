@@ -45,6 +45,56 @@ Dell, Technical Trainer and Curriculum Developer, Round Rock, TX 1997 to 2013
 * Applied for a patent on some of the techniques used in the Live-CD Linux Training.
 
 
+.. raw:: pdf PageBreak
+
+
+Key Career Skills
+====================
+
+Extensive experience in: 
+
+* Training
+* Curriculum development 
+* Technical support
+* System provisioning and management
+* Virtualization
+* Linux system adminstration
+* Network Security management using AlienVault solutions
+
+Some experience with: 
+    
+* Network administration and solution design
+* Penetration testing
+
+
+
+Software/OS-related Skills and Experience
+============================================
+
+Extensive experience in 
+
+* AlienVault USM Appliance
+* AlienVault USM Anywhere
+* OpenStack
+* Ubuntu LTS
+* Red Hat Enterprise Linux (including Xen/KVM virtualization, clustering, deployment and provisioning)
+* SuSE Linux Enterprise Server 
+* Remote administration (using VNC, SSH, FreeNX, and RDP) 
+* Shell scripting
+* Configuration of Fibre Channel and iSCSI storage
+* PXE deployment solutions including Cobbler and Koan
+
+Some experience with:
+
+* Hadoop 
+* Windows Desktop and Server releases from Window 3.11 through Windows 7
+* Open Solaris
+* VMware ESX
+* Citrix XenServer
+* Various Linux distros of lesser signifance in enterprise usage.
+* Deployment solutions including Chef, Puppet, and Ansible
+* Systems Management solutions such as Nagios and Ganglia
+
 
 
 Summary of Qualifications
