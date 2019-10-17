@@ -318,8 +318,8 @@
 
     heading2:
       parent: heading
-      fontName: stdBold
-      fontSize: 150%
+      fontName: stdFont
+      fontSize: 125%
 
     heading3:
       parent: heading

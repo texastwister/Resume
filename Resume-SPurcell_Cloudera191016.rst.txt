@@ -1,5 +1,5 @@
 ==========================
-Résumé: Scott L. Purcell
+Resume: Scott L. Purcell
 ==========================
 
 | 501 W. Metcalfe St.
@@ -9,8 +9,8 @@ Résumé: Scott L. Purcell
 
 
 
-Accomplishments
-================================
+Accomplishments by Employment Periods
+=========================================
 
 Cesten Consulting, Proprietor and Contract IT Trainer, Hutto, TX, Mar 2017 to Present
 ----------------------------------------------------------------------------------------
@@ -29,7 +29,7 @@ Alienvault, Sr. Technical Instructor, Austin, TX, Feb 2015 to Mar 2017
 Rackspace, Cloud Technologies Instructor, Austin, TX, Apr 2013 to Feb 2015
 ----------------------------------------------------------------------------
 
-* Developed a collaborative, cross platform, content-authoring workflow for curriculum development using ReStructured Text, Git, and Jenkins.
+* Developed a collaborative, cross platform, content-authoring work flow for curriculum development using ReStructured Text, Git, and Jenkins.
 * Collaborated in curriculum development for courses on OpenStack deployment for releases from Folsom to Juno.
 * Delivered courses throughout the US teaching OpenStack deployment.
 
