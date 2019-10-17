@@ -52,6 +52,7 @@ Key Career Skills
 ====================
 
 Extensive experience in: 
+--------------------------
 
 * Training
 * Curriculum development 
@@ -61,9 +62,9 @@ Extensive experience in:
 * Linux system adminstration
 * Network Security management using AlienVault solutions
 
-.. 
 
 Some experience with: 
+----------------------------
     
 * Network administration and solution design
 * Penetration testing
@@ -74,6 +75,7 @@ Software/OS-related Skills and Experience
 ============================================
 
 Extensive experience in 
+------------------------------
 
 * AlienVault USM Appliance
 * AlienVault USM Anywhere
@@ -87,6 +89,7 @@ Extensive experience in
 * PXE deployment solutions including Cobbler and Koan
 
 Some experience with:
+---------------------------
 
 * Hadoop 
 * Windows Desktop and Server releases from Window 3.11 through Windows 7
