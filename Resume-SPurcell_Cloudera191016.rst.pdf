@@ -79,8 +79,8 @@ endobj
 endobj
 11 0 obj
 <<
-/Author () /CreationDate (D:20191017002043+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20191017002043+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (R\351sum\351: Scott L. Purcell) /Trapped /False
+/Author () /CreationDate (D:20191017003546+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20191017003546+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Resume: Scott L. Purcell) /Trapped /False
 >>
 endobj
 12 0 obj
@@ -91,7 +91,7 @@ endobj
 13 0 obj
 <<
 /Count 4 /Dest [ 5 0 R /XYZ 42 635.8268 0 ] /First 14 0 R /Last 17 0 R /Next 18 0 R /Parent 12 0 R 
-  /Title (Accomplishments)
+  /Title (Accomplishments by Employment Periods)
 >>
 endobj
 14 0 obj
@@ -101,38 +101,38 @@ endobj
 endobj
 15 0 obj
 <<
-/Dest [ 5 0 R /XYZ 42 500.8268 0 ] /Next 16 0 R /Parent 13 0 R /Prev 14 0 R /Title (Alienvault, Sr. Technical Instructor, Austin, TX, Feb 2015 to Mar 2017)
+/Dest [ 5 0 R /XYZ 42 521.8268 0 ] /Next 16 0 R /Parent 13 0 R /Prev 14 0 R /Title (Alienvault, Sr. Technical Instructor, Austin, TX, Feb 2015 to Mar 2017)
 >>
 endobj
 16 0 obj
 <<
-/Dest [ 5 0 R /XYZ 42 380.8268 0 ] /Next 17 0 R /Parent 13 0 R /Prev 15 0 R /Title (Rackspace, Cloud Technologies Instructor, Austin, TX, Apr 2013 to Feb 2015)
+/Dest [ 5 0 R /XYZ 42 404.8268 0 ] /Next 17 0 R /Parent 13 0 R /Prev 15 0 R /Title (Rackspace, Cloud Technologies Instructor, Austin, TX, Apr 2013 to Feb 2015)
 >>
 endobj
 17 0 obj
 <<
-/Dest [ 5 0 R /XYZ 42 260.8268 0 ] /Parent 13 0 R /Prev 16 0 R /Title (Dell, Technical Trainer and Curriculum Developer, Round Rock, TX 1997 to 2013)
+/Dest [ 5 0 R /XYZ 42 305.8268 0 ] /Parent 13 0 R /Prev 16 0 R /Title (Dell, Technical Trainer and Curriculum Developer, Round Rock, TX 1997 to 2013)
 >>
 endobj
 18 0 obj
 <<
-/Count 3 /Dest [ 6 0 R /XYZ 42 735.8268 0 ] /First 19 0 R /Last 21 0 R /Next 22 0 R /Parent 12 0 R 
+/Count 3 /Dest [ 5 0 R /XYZ 42 110.8268 0 ] /First 19 0 R /Last 21 0 R /Next 22 0 R /Parent 12 0 R 
   /Prev 13 0 R /Title (Summary of Qualifications)
 >>
 endobj
 19 0 obj
 <<
-/Dest [ 6 0 R /XYZ 42 666.8268 0 ] /Next 20 0 R /Parent 18 0 R /Title (Hardware-related skills and experience)
+/Dest [ 6 0 R /XYZ 42 699.8268 0 ] /Next 20 0 R /Parent 18 0 R /Title (Hardware-related skills and experience)
 >>
 endobj
 20 0 obj
 <<
-/Dest [ 6 0 R /XYZ 42 474.8268 0 ] /Next 21 0 R /Parent 18 0 R /Prev 19 0 R /Title (Software/OS-related skills and experience)
+/Dest [ 6 0 R /XYZ 42 510.8268 0 ] /Next 21 0 R /Parent 18 0 R /Prev 19 0 R /Title (Software/OS-related skills and experience)
 >>
 endobj
 21 0 obj
 <<
-/Dest [ 7 0 R /XYZ 42 735.8268 0 ] /Parent 18 0 R /Prev 20 0 R /Title (IT-related Skills)
+/Dest [ 6 0 R /XYZ 42 105.8268 0 ] /Parent 18 0 R /Prev 20 0 R /Title (IT-related Skills)
 >>
 endobj
 22 0 obj
@@ -162,7 +162,7 @@ endobj
 endobj
 27 0 obj
 <<
-/Length 7787
+/Length 7935
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -170,7 +170,7 @@ q
 1 0 0 1 42 711.8268 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 146.19 0 Td (R\351sum\351: Scott L. Purcell) Tj T* -146.19 0 Td ET
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 146.19 0 Td (Resume: Scott L. Purcell) Tj T* -146.19 0 Td ET
 Q
 Q
 q
@@ -211,23 +211,23 @@ Q
 q
 1 0 0 1 42 614.8268 cm
 q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Accomplishments) Tj T* ET
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Accomplishments by Employment Periods) Tj T* ET
 Q
 Q
 q
-1 0 0 1 42 566.8268 cm
+1 0 0 1 42 587.8268 cm
 q
-BT 1 0 0 1 0 21 Tm 18 TL /F2 15 Tf 0 0 0 rg (Cesten Consulting, Proprietor and Contract IT Trainer, Hutto, TX, Mar) Tj T* (2017 to Present) Tj T* ET
+BT 1 0 0 1 0 2.5 Tm 15 TL /F1 12.5 Tf 0 0 0 rg (Cesten Consulting, Proprietor and Contract IT Trainer, Hutto, TX, Mar 2017 to Present) Tj T* ET
 Q
 Q
 q
-1 0 0 1 42 554.8268 cm
+1 0 0 1 42 575.8268 cm
 Q
 q
-1 0 0 1 42 554.8268 cm
+1 0 0 1 42 575.8268 cm
 Q
 q
-1 0 0 1 42 530.8268 cm
+1 0 0 1 42 551.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -248,10 +248,10 @@ q
 Q
 Q
 q
-1 0 0 1 42 524.8268 cm
+1 0 0 1 42 545.8268 cm
 Q
 q
-1 0 0 1 42 512.8268 cm
+1 0 0 1 42 533.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -272,22 +272,22 @@ q
 Q
 Q
 q
-1 0 0 1 42 512.8268 cm
+1 0 0 1 42 533.8268 cm
 Q
 q
-1 0 0 1 42 482.8268 cm
+1 0 0 1 42 506.8268 cm
 q
-BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Alienvault, Sr. Technical Instructor, Austin, TX, Feb 2015 to Mar 2017) Tj T* ET
+BT 1 0 0 1 0 2.5 Tm 15 TL /F1 12.5 Tf 0 0 0 rg (Alienvault, Sr. Technical Instructor, Austin, TX, Feb 2015 to Mar 2017) Tj T* ET
 Q
+Q
+q
+1 0 0 1 42 494.8268 cm
+Q
+q
+1 0 0 1 42 494.8268 cm
 Q
 q
 1 0 0 1 42 470.8268 cm
-Q
-q
-1 0 0 1 42 470.8268 cm
-Q
-q
-1 0 0 1 42 446.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -308,10 +308,10 @@ q
 Q
 Q
 q
-1 0 0 1 42 440.8268 cm
+1 0 0 1 42 464.8268 cm
 Q
 q
-1 0 0 1 42 428.8268 cm
+1 0 0 1 42 452.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -332,10 +332,10 @@ q
 Q
 Q
 q
-1 0 0 1 42 422.8268 cm
+1 0 0 1 42 446.8268 cm
 Q
 q
-1 0 0 1 42 410.8268 cm
+1 0 0 1 42 434.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -356,10 +356,10 @@ q
 Q
 Q
 q
-1 0 0 1 42 404.8268 cm
+1 0 0 1 42 428.8268 cm
 Q
 q
-1 0 0 1 42 392.8268 cm
+1 0 0 1 42 416.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -380,22 +380,22 @@ q
 Q
 Q
 q
-1 0 0 1 42 392.8268 cm
+1 0 0 1 42 416.8268 cm
 Q
 q
-1 0 0 1 42 344.8268 cm
+1 0 0 1 42 389.8268 cm
 q
-BT 1 0 0 1 0 21 Tm 18 TL /F2 15 Tf 0 0 0 rg (Rackspace, Cloud Technologies Instructor, Austin, TX, Apr 2013 to Feb) Tj T* (2015) Tj T* ET
+BT 1 0 0 1 0 2.5 Tm 15 TL /F1 12.5 Tf 0 0 0 rg (Rackspace, Cloud Technologies Instructor, Austin, TX, Apr 2013 to Feb 2015) Tj T* ET
 Q
 Q
 q
-1 0 0 1 42 332.8268 cm
+1 0 0 1 42 377.8268 cm
 Q
 q
-1 0 0 1 42 332.8268 cm
+1 0 0 1 42 377.8268 cm
 Q
 q
-1 0 0 1 42 308.8268 cm
+1 0 0 1 42 353.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -409,17 +409,17 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Developed a collaborative, cross platform, content-authoring workflow for curriculum development using) Tj T* (ReStructured Text, Git, and Jenkins.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Developed a collaborative, cross platform, content-authoring work flow for curriculum development using) Tj T* (ReStructured Text, Git, and Jenkins.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 42 302.8268 cm
+1 0 0 1 42 347.8268 cm
 Q
 q
-1 0 0 1 42 290.8268 cm
+1 0 0 1 42 335.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -440,10 +440,10 @@ q
 Q
 Q
 q
-1 0 0 1 42 284.8268 cm
+1 0 0 1 42 329.8268 cm
 Q
 q
-1 0 0 1 42 272.8268 cm
+1 0 0 1 42 317.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -464,22 +464,22 @@ q
 Q
 Q
 q
-1 0 0 1 42 272.8268 cm
+1 0 0 1 42 317.8268 cm
 Q
 q
-1 0 0 1 42 224.8268 cm
+1 0 0 1 42 290.8268 cm
 q
-BT 1 0 0 1 0 21 Tm 18 TL /F2 15 Tf 0 0 0 rg (Dell, Technical Trainer and Curriculum Developer, Round Rock, TX 1997) Tj T* (to 2013) Tj T* ET
+BT 1 0 0 1 0 2.5 Tm 15 TL /F1 12.5 Tf 0 0 0 rg (Dell, Technical Trainer and Curriculum Developer, Round Rock, TX 1997 to 2013) Tj T* ET
 Q
 Q
 q
-1 0 0 1 42 212.8268 cm
+1 0 0 1 42 278.8268 cm
 Q
 q
-1 0 0 1 42 212.8268 cm
+1 0 0 1 42 278.8268 cm
 Q
 q
-1 0 0 1 42 188.8268 cm
+1 0 0 1 42 254.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -500,10 +500,10 @@ q
 Q
 Q
 q
-1 0 0 1 42 182.8268 cm
+1 0 0 1 42 248.8268 cm
 Q
 q
-1 0 0 1 42 170.8268 cm
+1 0 0 1 42 236.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -524,10 +524,10 @@ q
 Q
 Q
 q
-1 0 0 1 42 164.8268 cm
+1 0 0 1 42 230.8268 cm
 Q
 q
-1 0 0 1 42 140.8268 cm
+1 0 0 1 42 206.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -548,10 +548,10 @@ q
 Q
 Q
 q
-1 0 0 1 42 134.8268 cm
+1 0 0 1 42 200.8268 cm
 Q
 q
-1 0 0 1 42 110.8268 cm
+1 0 0 1 42 176.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -572,10 +572,10 @@ q
 Q
 Q
 q
-1 0 0 1 42 104.8268 cm
+1 0 0 1 42 170.8268 cm
 Q
 q
-1 0 0 1 42 92.82677 cm
+1 0 0 1 42 158.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -596,10 +596,10 @@ q
 Q
 Q
 q
-1 0 0 1 42 86.82677 cm
+1 0 0 1 42 152.8268 cm
 Q
 q
-1 0 0 1 42 74.82677 cm
+1 0 0 1 42 140.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -620,10 +620,10 @@ q
 Q
 Q
 q
-1 0 0 1 42 68.82677 cm
+1 0 0 1 42 134.8268 cm
 Q
 q
-1 0 0 1 42 56.82677 cm
+1 0 0 1 42 122.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -644,28 +644,28 @@ q
 Q
 Q
 q
-1 0 0 1 42 56.82677 cm
+1 0 0 1 42 122.8268 cm
+Q
+q
+1 0 0 1 42 89.82677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Summary of Qualifications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42 77.82677 cm
 Q
  
 endstream
 endobj
 28 0 obj
 <<
-/Length 9341
+/Length 9551
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 42 714.8268 cm
-q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Summary of Qualifications) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 702.8268 cm
-Q
-q
-1 0 0 1 42 678.8268 cm
+1 0 0 1 42 711.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -680,19 +680,19 @@ q
 Q
 Q
 q
-1 0 0 1 42 678.8268 cm
+1 0 0 1 42 711.8268 cm
 Q
 q
-1 0 0 1 42 648.8268 cm
+1 0 0 1 42 684.8268 cm
 q
-BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Hardware-related skills and experience) Tj T* ET
+BT 1 0 0 1 0 2.5 Tm 15 TL /F1 12.5 Tf 0 0 0 rg (Hardware-related skills and experience) Tj T* ET
 Q
 Q
 q
-1 0 0 1 42 636.8268 cm
+1 0 0 1 42 672.8268 cm
 Q
 q
-1 0 0 1 42 486.8268 cm
+1 0 0 1 42 522.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -898,19 +898,19 @@ q
 Q
 Q
 q
-1 0 0 1 42 486.8268 cm
+1 0 0 1 42 522.8268 cm
 Q
 q
-1 0 0 1 42 456.8268 cm
+1 0 0 1 42 495.8268 cm
 q
-BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Software/OS-related skills and experience) Tj T* ET
+BT 1 0 0 1 0 2.5 Tm 15 TL /F1 12.5 Tf 0 0 0 rg (Software/OS-related skills and experience) Tj T* ET
 Q
 Q
 q
-1 0 0 1 42 444.8268 cm
+1 0 0 1 42 483.8268 cm
 Q
 q
-1 0 0 1 42 78.82677 cm
+1 0 0 1 42 117.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -1404,41 +1404,49 @@ q
 Q
 Q
 q
+1 0 0 1 42 117.8268 cm
+Q
+q
+1 0 0 1 42 90.82677 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F1 12.5 Tf 0 0 0 rg (IT-related Skills) Tj T* ET
+Q
+Q
+q
 1 0 0 1 42 78.82677 cm
 Q
- 
-endstream
-endobj
-29 0 obj
-<<
-/Length 3433
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 42 717.8268 cm
-q
-BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (IT-related Skills) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 705.8268 cm
-Q
-q
-1 0 0 1 42 501.8268 cm
+1 0 0 1 42 60.82677 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
 q
-1 0 0 1 20 192 cm
+1 0 0 1 20 6 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extensive experience in:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 186 cm
+1 0 0 1 20 0 cm
 Q
+q
+Q
+Q
+ 
+endstream
+endobj
+29 0 obj
+<<
+/Length 3176
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 42 563.1732 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
 q
 1 0 0 1 20 60 cm
 0 0 0 rg
@@ -1703,10 +1711,10 @@ q
 Q
 Q
 q
-1 0 0 1 42 501.8268 cm
+1 0 0 1 42 563.1732 cm
 Q
 q
-1 0 0 1 42 501.8268 cm
+1 0 0 1 42 563.1732 cm
 Q
  
 endstream
@@ -2199,36 +2207,36 @@ xref
 0000001309 00000 n 
 0000001504 00000 n 
 0000001610 00000 n 
-0000001898 00000 n 
-0000001973 00000 n 
-0000002122 00000 n 
-0000002302 00000 n 
-0000002480 00000 n 
-0000002662 00000 n 
-0000002834 00000 n 
-0000003006 00000 n 
-0000003139 00000 n 
-0000003288 00000 n 
-0000003400 00000 n 
-0000003518 00000 n 
-0000003640 00000 n 
-0000003757 00000 n 
-0000003872 00000 n 
-0000003956 00000 n 
-0000011795 00000 n 
-0000021188 00000 n 
-0000024673 00000 n 
-0000030408 00000 n 
-0000033455 00000 n 
-0000033532 00000 n 
-0000033566 00000 n 
-0000033600 00000 n 
-0000033634 00000 n 
-0000033668 00000 n 
+0000001892 00000 n 
+0000001967 00000 n 
+0000002138 00000 n 
+0000002318 00000 n 
+0000002496 00000 n 
+0000002678 00000 n 
+0000002850 00000 n 
+0000003022 00000 n 
+0000003155 00000 n 
+0000003304 00000 n 
+0000003416 00000 n 
+0000003534 00000 n 
+0000003656 00000 n 
+0000003773 00000 n 
+0000003888 00000 n 
+0000003972 00000 n 
+0000011959 00000 n 
+0000021562 00000 n 
+0000024790 00000 n 
+0000030525 00000 n 
+0000033572 00000 n 
+0000033649 00000 n 
+0000033683 00000 n 
+0000033717 00000 n 
+0000033751 00000 n 
+0000033785 00000 n 
 trailer
 <<
 /ID 
-[<b1ac09cbbdd009ff4d811887f322e72e><b1ac09cbbdd009ff4d811887f322e72e>]
+[<2205cc3ea7a8bae1329258c280528370><2205cc3ea7a8bae1329258c280528370>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 11 0 R
@@ -2236,5 +2244,5 @@ trailer
 /Size 38
 >>
 startxref
-33702
+33819
 %%EOF
