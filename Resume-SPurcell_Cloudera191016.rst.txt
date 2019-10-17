@@ -61,6 +61,8 @@ Extensive experience in:
 * Linux system adminstration
 * Network Security management using AlienVault solutions
 
+.. 
+
 Some experience with: 
     
 * Network administration and solution design

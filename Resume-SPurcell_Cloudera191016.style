@@ -320,7 +320,7 @@
       parent: heading
       fontName: stdFont
       fontSize: 125%
-      spaceBefore: 6
+      spaceBefore: 12
       
     heading3:
       parent: heading
