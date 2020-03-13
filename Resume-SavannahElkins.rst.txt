@@ -54,6 +54,15 @@ Aug 2012 - June 2019
 2015 - 2017
     High School Culinery Class
 
+
+.. raw:: pdf
+
+    PageBreak
+
+..
+
+
+
 References
 =============
 
@@ -73,12 +82,5 @@ References
 
 |    Kate Purcell
 |    (512) 284-4652
-
-
-.. raw:: pdf
-
-    PageBreak
-
-..
 
 
